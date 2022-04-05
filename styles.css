@@ -1,0 +1,38 @@
+h1 {
+    color:blueviolet;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+    border: 2px dashed;
+    text-align: center;
+    list-style: none; 
+    padding-left: 0;
+    width: 50%;
+    
+}
+
+ul li {
+    display: inline-block;
+    border: 3px outset;
+}
+
+img {
+    display: block;
+    width: 50%;
+}
+
+body.homepage { 
+    background-image: url(Images/Backgrounds/background1.jpg)
+    background-repeat;
+    background-size: cover;
+    background-position: 40% 100%;
+}
