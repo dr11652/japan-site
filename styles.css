@@ -27,13 +27,8 @@ ul li {
 }
 
 img {
-    display: block;
-    width: 50%;
-}
-
-body.homepage { 
-    background-image: url(Images/Backgrounds/background1.jpg)
-    background-repeat;
-    background-size: cover;
-    background-position: 40% 100%;
-}
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+  }
